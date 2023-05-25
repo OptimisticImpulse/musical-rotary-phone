@@ -1,6 +1,8 @@
 '''\  
 This line will be totally black.
 This line will be normal. \
+Another line to be blank \\
+another line to show
 '''
 
 a = "Hello, World!"
